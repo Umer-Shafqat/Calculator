@@ -1,0 +1,2 @@
+# gitclass
+first repo
